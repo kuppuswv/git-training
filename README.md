@@ -1,2 +1,2 @@
 # git-training
-training 
+this is my training file
